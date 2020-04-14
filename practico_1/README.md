@@ -1,7 +1,7 @@
 Resumen de Practico 1
 =====================
 
-En este practico se trabajo en el siguiente repositorio. 
+En este practico se trabajo en el siguiente [repositorio](https://github.com/sorialuis/lab4_practico1). 
 
 En donde se resolvieron los conflictos del punto 5 a travez de la terminal de linux y visual studio code.
 
