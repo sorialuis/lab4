@@ -17,7 +17,7 @@ En donde se resolvieron los conflictos del punto 5 a travez de la terminal de li
 
 
 
--Y se completaron los ejercicios de https://learngitbranching.js.org/
+- Y se completaron los ejercicios de https://learngitbranching.js.org/
 
 ![](./img/terminado.jpeg)
 
